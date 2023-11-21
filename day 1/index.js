@@ -1,4 +1,4 @@
-//addting two valuables
+//adding two valuables
 const a=5;
 var b=3;
 let c=a+b;

@@ -15,3 +15,11 @@ var studylyCapVar;
 var properCamelCase;
 var studylyCapVar =10;
 var properCamelCase ="A string";
+console.log("A string");
+//Addition,subtraction and multiplication operators in JavaScript
+const h = 5 + 10;
+console.log(h);
+const k = 3 - 2;
+console.log(k); 
+const l = 6 * 6;
+console.log(l);
